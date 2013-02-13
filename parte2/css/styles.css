@@ -1,0 +1,67 @@
+header{
+	width: 800px;
+	height: 200px;
+	margin: auto;
+}
+nav{
+	margin: auto;
+	float: left;
+	border: 1px solid rgb(209, 196, 196);
+	margin-left: 5px;
+	border-radius: 5px 5px 5px 5px;
+}
+#content-main{
+	display: table;
+	margin: auto;
+}
+
+.tabela-proximos-jogos td:hover{
+	background-color: white;
+
+}
+#cadastro-apostador{
+	margin: auto;
+	width: 300px;
+}
+#cadastro-apostador input{
+	margin-top: 5px;
+	width: 250px;
+	height: 30px;
+}
+#cadastro-apostador button{
+	margin-top: 10px;
+}
+#tabela-cadastrados{
+	margin: auto;
+}
+#tabela-cadastrados table{
+	width: 800px;
+	margin: auto;
+}
+#teste_content{
+	margin: auto;
+	width: 800px;
+	height: 800px;
+}
+
+/*Index*/
+.mensagem2{
+	display: none;
+}
+
+.imagens{
+	float: right;
+	margin-top: 100px;
+}
+.imagens .img1{
+	background-image: url(../img/futebol1.jpg);
+	background-repeat: no-repeat;
+}
+.imagens .img2{
+	
+	display: none;
+}
+.imagens .img3{
+	
+	display: none;
+}
